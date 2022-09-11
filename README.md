@@ -52,13 +52,8 @@
 <details>
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Badges"
-    
-
   </summary>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-leica" alt="marius-leica" /></a> </p>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-leica" alt="marius-leica" /></a> </p>
 </details>
 
 
@@ -66,10 +61,8 @@
 <details>
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Details"
-    
-
   </summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marius-leica&show_icons=true&locale=en&layout=compact" alt="marius-leica" /></p>
+  <p Background-color="black"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marius-leica&show_icons=true&locale=en&layout=compact" alt="marius-leica" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marius-leica&show_icons=true&locale=en" alt="marius-leica" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marius-leica&" alt="marius-leica" /></p>
 </details>
