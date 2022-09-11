@@ -14,7 +14,7 @@
 - **I** ❤️ **to think, learn, code, and customize everything**
 
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/11150830346)
+
 
 
 
