@@ -2,7 +2,9 @@
 
 
 
-[![Spotify](https://spotify-nowplaying-marius-leica.vercel.app/api/spotify)](https://open.spotify.com/user/11150830346)
+
+  [![Spotify ](https://spotify-nowplaying-marius-leica.vercel.app/api/spotify)](https://open.spotify.com/user/11150830346)
+
 
 
 
