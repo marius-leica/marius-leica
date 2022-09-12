@@ -24,13 +24,12 @@
 
 - ⚙️ I use: `.php`, `vue.js`, `.html`, `.css`.
 
-- 🔭 I'm currently learning **Laravel & VueJS**
+- 🔭 I'm currently learning **everything I can**
 
-- 💬 Ask me about: everything
+- 💬 Ask me about **Web dev**
 
 - **I** ❤️ **to think, learn, code, and customize everything**
 
-- 💬 Ask me about **Web dev**
 
 
 
