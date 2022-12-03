@@ -18,17 +18,16 @@
 
 
 ### 🚀 About
-- 🎓 I finished a 6-month full immersion bootcamp to become a full stack web developer. (Class of 2022)  
 
-- 👀 I'm currently focusing on **web dev**
+- 👀 I'm focusing on **web dev**
 
-- ⚙️ I use: `.php`, `vue.js`, `.html`, `.css`.
+- ⚙️ I use: `.laravel`,`.php`, `vue.js`, `.js`, `.html`, `.css`.
 
 - 🔭 I'm currently learning **everything I can**
 
 - 💬 Ask me about **Web dev**
 
-- **I** ❤️ **to think, learn, code, and customize everything**
+- **I** ❤️ **to learn, code, and customize everything**
 
 
 
