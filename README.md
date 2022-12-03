@@ -11,7 +11,7 @@
 
 
 <h1>Hi 👋, I'm Marius Leica</h1>
-<h3>A passionate Jr. FullStack Developer</h3>
+<h3>A passionate Jr. FullStack Web Developer</h3>
 
 
 
