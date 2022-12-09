@@ -35,10 +35,16 @@
 
 ---
  
+<p align="center">
+ 
  ### Spotify Playing 🎧
-
-[![Spotify](https://spotify-nowplaying-marius-leica.vercel.app/api/spotify)](https://open.spotify.com/user/11150830346)
+ 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+ 
+[![Spotify](https://spotify-nowplaying-marius-leica.vercel.app/api/spotify)](https://open.spotify.com/user/11150830346)
+ 
+</p>
+
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-leica&label=Profile%20views&color=0e75b6&style=flat" alt="marius-leica" /> </p>
@@ -48,15 +54,10 @@
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Badges"
   </summary>
- 
+ <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=marius-leica&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
- 
- 
- 
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-leica" alt="marius-leica" /></a> </p>
+ </p>
 </details>
-
-
 
 <details>
   <summary>
