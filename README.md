@@ -57,9 +57,10 @@
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Details"
   </summary>
-  <p Background-color="black"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marius-leica&show_icons=true&locale=en&layout=compact" alt="marius-leica" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marius-leica&show_icons=true&locale=en" alt="marius-leica" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marius-leica&" alt="marius-leica" /></p>
+  <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marius-leica&show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=0000FF&amp;icon_color=0000FF&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
+ 
+</div>
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer" style="max-width: 100%;">
