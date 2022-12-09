@@ -10,7 +10,8 @@
 
 
 
-<h1>Hi 👋, I'm Marius Leica</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marius+Leica;I'm+a+web+developer;Welcome!)](https://git.io/typing-svg)
+
 <h3>A passionate Jr. FullStack Web Developer</h3>
 
 
