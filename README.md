@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0000FF;height=120&amp;section=header" style="max-width: 100%;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header" style="max-width: 100%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marius+Leica;I'm+a+full+stack+web+developer;Welcome!!!)](https://git.io/typing-svg)
 
