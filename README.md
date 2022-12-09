@@ -48,6 +48,11 @@
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Badges"
   </summary>
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=marius-leica&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
+ 
+ 
+ 
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-leica" alt="marius-leica" /></a> </p>
 </details>
 
