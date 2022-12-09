@@ -67,5 +67,5 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marius-leicashow_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;"
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marius-leica&show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;"
 </div>
