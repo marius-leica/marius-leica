@@ -61,7 +61,6 @@
   <summary>
     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>"Profile Details"
   </summary>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marius-leica&bg_color=add8e6&color=000000&line=4c4f9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p Background-color="black"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marius-leica&show_icons=true&locale=en&layout=compact" alt="marius-leica" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marius-leica&show_icons=true&locale=en" alt="marius-leica" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marius-leica&" alt="marius-leica" /></p>
