@@ -25,7 +25,7 @@
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.marius.leica%40webartisanbros.com)](mailto:marius.leica@webartisanbros.com)
 [![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariusleica)](https://www.linkedin.com/in/marius-leica-dev/)
-[![Site URL](https://img.shields.io/badge/web%20site-8A2BE2)](https://webartisanbros.com/)
+[![Site URL](https://img.shields.io/badge/web%20site-f6e077)](https://webartisanbros.com/)
 
 ---
 
