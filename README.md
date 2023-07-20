@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marius+Leica;I'm+a+full+stack+web+developer;Welcome!!!)](https://git.io/typing-svg)
 
-<h3>A passionate Jr. FullStack Web Developer</h3>
+<h3>A passionate FullStack Web Developer</h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11150830346)
 
