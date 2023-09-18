@@ -11,7 +11,7 @@
 
 - 👀 I'm focusing on **web dev**
 
-- ⚙️ I use: `.laravel`, `.php`, `vue.js`, `.js`, `.html`, `.css`.
+- ⚙️ I use: `.statamic`, `.laravel`, `.php`, `vue.js`, `.js`, `.html`, `.css`.
 
 - 🔭 I'm currently learning **everything I can**
 
