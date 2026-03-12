@@ -7,7 +7,7 @@
 
 <h3>A passionate FullStack Web Developer</h3>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11150830346)
+
 
 
 ### 🚀 About
